@@ -1,4 +1,4 @@
-# VolunteersPlatform
+# VolunteeringPlatform
 Project started on hackathon (Hack4Vilnius) 2019-09-20<br/>
 We are creating this web page with PHP programming language, HTML, CSS & SQL database.
 
