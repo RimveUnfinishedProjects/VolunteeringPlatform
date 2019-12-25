@@ -10,3 +10,5 @@ Work On Progress.
 
 <img src="https://github.com/RimveBiceps/VolunteeringPlatform/blob/master/demo/demo2.png" alt="menu1" width="400" height="300">
 You can find demo powerpoint presentation at "demo" folder.
+
+.gitattributes added for fixing language detection on github!
